@@ -5,7 +5,7 @@
 ## Run `mix.deps get` and `npm install` (or `yarn install`) to install the dependencies, then run `mix ecto.create` to create you db.
 ## Run `mix phoenix.server` or `iex -S mix phoenix.server` to run the app. 
 
-### Check out the Youtube Tutorial for this [Go Program](https://youtu.be/F4oAZx_ao4s). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Phoenix Program](https://youtu.be/F4oAZx_ao4s). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
